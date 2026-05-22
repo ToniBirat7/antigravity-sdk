@@ -1,0 +1,9 @@
+product,sales,region,quarter
+Laptop,15000,North,Q1
+Laptop,16500,North,Q2
+Mouse,2300,East,Q1
+Mouse,2150,East,Q2
+Monitor,8900,South,Q1
+Monitor,9200,South,Q2
+Keyboard,3450,West,Q1
+Keyboard,3670,West,Q2
